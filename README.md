@@ -78,3 +78,4 @@ Open Arduino IDE Serial Monitor (or any terminal emulator), set the baud rate to
 | **7** | `THROTTLE 20` | Fail-safe clears instantly; LED returns to steady 20% brightness |
 | **8** | `THROTTLE abc` | Malformed line ignored safely without crashing, hanging, or resetting |
 | **9** | `BRAKE 100` + `THROTTLE 100` (Burst) | `BRAKE` takes precedence; LED output remains locked at 0% |
+https://drive.google.com/file/d/1B8sYpIWezv5ZPjIUfFPIgVqjd-ZbXu-G/view?usp=drive_link 
